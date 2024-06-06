@@ -1,0 +1,8 @@
+git init (inicializa repositorio en tu pc)
+git add < >
+git status (tu mejor amigo)
+git clone < >
+git commit -m < >
+git push
+git fetch (se fija que hay en le repo)
+git pull (trae a mi pc lo que hay en el repo)
